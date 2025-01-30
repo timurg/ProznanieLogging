@@ -1,0 +1,4 @@
+FROM postgres:13
+ENV POSTGRES_USER=fluent
+ENV POSTGRES_PASSWORD=r7OGYxLvOaCz
+ENV POSTGRES_DB=proznanie_logs
