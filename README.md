@@ -1,4 +1,4 @@
-# Проект EFK (Elasticsearch, Fluent Bit, Kibana)
+# EFK (Elasticsearch, Fluent Bit, Kibana)
 
 ## Описание
 
